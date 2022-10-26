@@ -23,3 +23,8 @@ Quickly detecting and determining the location of any vertebral fractures is ess
 
 -----
 
+## Context
+RSNA has teamed with the American Society of Neuroradiology (ASNR) and the American Society of Spine Radiology (ASSR) to conduct an AI challenge competition exploring whether artificial intelligence can be used to aid in the detection and localization of cervical spine fractures.
+
+-----
+
